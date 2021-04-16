@@ -1,4 +1,4 @@
 # currency-converter
 
-vanilla js currency converter using ExchangeRate-API.
+vanilla js currency converter using ExchangeRate-API.  
 supports pair conversion.
